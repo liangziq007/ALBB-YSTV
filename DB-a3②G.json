@@ -23,6 +23,7 @@
 {"key":"t4public","name":"T4公共_影视榜单","type":4,"api":"https:t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77_影视","name":"酷云_影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"纸条","name":"纸条_影视4K","type":3,"api":"csp_Paper","ext":"http:我不是.肥猫.love:63/token.php","jar":"https:download.kstore.space/download/2883/fm.jar"},
+{"key":"mtv_pc_yinfans","name":"音范丝_影视4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/yinfans.json"},
 {"key":"Gitcafe","name":"纸条2_影视4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"26496fd573ac45d5b3b3f77799fc126f"},
 {"key":"csp_Alist","name":"Alist_影视4K","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https:share.nite07.com/api/v3/file/source/19388/Alist0911.json?sign=W9Tj0hdOgo9K10c0ZtLJIuKz5t7nGULc-VXJhOBgkPs%3D%3A0"},
 {"key":"csp_Upyunso","name":"Up云搜_影视4K","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"26496fd573ac45d5b3b3f77799fc126f"},
