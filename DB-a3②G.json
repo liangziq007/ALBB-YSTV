@@ -18,8 +18,8 @@
 {"key":"电视直播","name":"📺┃TV直播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https:download.kstore.space/download/2883/tvtv.txt","jar":"https:download.kstore.space/download/2883/tvtv.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 //大屏分辨率类：
 {"key":"HD2高清","name":"🔥大屏分辨率：","type":0,"api":""},
-{"key":"csp_Kuaikan","name":"快看┃影视HD2","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Tkys","name":"天空┃影视HD2","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tkys","name":"天空┃影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 //小屏分辨率：
 {"key":"HD高清","name":"🔥小屏分辨率：","type":0,"api":""},
 {"key":"韩剧*资源","name":"韩剧┃DW影视","type":1,"api":"http:www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
