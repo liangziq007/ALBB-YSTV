@@ -2,7 +2,7 @@
 //https://raw.githubusercontent.com/liangziq007/ALBB-YSTV/main/DB-a2.json     单源
 
 {
-	"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C"，
+	"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C",
 	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302"，
 
 	"sites":[
