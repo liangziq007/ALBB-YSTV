@@ -25,7 +25,7 @@
 {"key":"csp_fant"，"name":"🍙饭团┃JAR影视"，"type":3，"api":"csp_Fantuan"，"searchable":1，"quickSearch":1，"filterable":1}，
 {"key":"csp_Czsapp"，"name":"🔥厂长┃JAR影视"，"type":3，"api":"csp_Czsapp"，"searchable":1，"quickSearch":1，"filterable":1}，
 {"key":"drpy_js_创艺"，"name":"🎞️创艺┃影视"，"type":3，"api":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js"，"ext":"https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"}，
-{"key":"csp_XBPQTVB影视"，"name":"🎞️TVB┃影视"，"type":3，"api":"csp_xBPQ"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"http://52bsj.vip:81/api/v3/file/get/63303/TVB%E4%BA%91%E6%92%AD%28xBPQ%29.json?sign=D7u6b1vB57heVQdexskilQyAnu6CAOY0J1gIxm0wDvs%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"}，
+{"key":"csp_XBPQTVB影视"，"name":"🎞️TVB┃影视"，"type":3，"api":"csp_xBPQ"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"http://52bsj.vip:81/api/v3/file/get/63303/TVB%E4%BA%91%E6%92%AD%28xBPQ%29.json?sign=D7u6b1vB57heVQdexskilQyAnu6CAOY0J1gIxm0wDvs%3D%3A0"，"jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"}，
 {"key":"csp_Bttoo"，"name":"🔺Btto┃影视"，"api":"csp_Bttwoo"，"type":3，"filterable":1，"quickSearch":1，"searchable":1}，
 {"key":"csp_appys_如意4K"，"name":"🐵️如意┃影视"，"type":3，"api":"csp_AppYsV2"，"searchable":1，"quickSearch":1，"filterable":1，"ext":"http://cms.maoyingshi.cc/api.php/app/"，"playUrl":"json:https://jx.4kdv.com/?url="}，
 {"key":"csp_Auete"，"name":"🏝Aue┃影视"，"type":3，"api":"csp_Auete"，"searchable":1，"quickSearch":1，"filterable":1}，
@@ -138,7 +138,7 @@
 {"key":"Zhaozy3"，"name":"🗽资源┃影视3"，"type":"3"，"api":"csp_Zhaozy"，"searchable":"1"，"quickSearch":"1"，"filterable":"1"，"ext":"http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"}，
 {"key":"csp_search_Alips"，"name":"🦌盘搜┃影视1"，"type":3，"api":"csp_PanSou"，"playerType":1，"searchable":1，"quickSearch" :1，"filterable":0，"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"}，
 {"key":"AliPS"，"name":"🔎盘搜┃影视2"，"type":"3"，"api":"csp_PanSou"，"searchable":"1"，"quickSearch":"1"，"filterable":"1"，"ext":"http://ali.饭太硬.ml/alitoken"}，
-{"key":"PanSou"，"name":"😽盘搜┃影视3"，"type":3，"api":"csp_PanSou","searchable":1，"quickSearch":1，"filterable":0，"changeable":0,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
+{"key":"PanSou"，"name":"😽盘搜┃影视3"，"type":3，"api":"csp_PanSou"，"searchable":1，"quickSearch":1，"filterable":0，"changeable":0，"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"}，
 {"key":"csp_search_Upyunso"，"name":"🐐云搜┃影视1"，"type":3，"api":"csp_UpYun"，"playerType":1，"searchable":1，"quickSearch" :1，"filterable":0，"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"}，
 {"key":"UpYun"，"name":"☁️UP云搜┃影视2"，"type":3，"api":"csp_UpYun"，"searchable":1，"quickSearch":1，"filterable":0，"changeable":0，"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"}，
 {"key":"Upso"，"name":"☁️云搜┃影视3"，"type":"3"，"api":"csp_UpYun"，"searchable":"1"，"quickSearch":"1"，"filterable":"1"，"ext":"http://ali.饭太硬.ml/alitoken"}，
