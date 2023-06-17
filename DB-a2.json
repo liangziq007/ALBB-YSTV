@@ -2,12 +2,12 @@
 //https://raw.githubusercontent.com/liangziq007/ALBB-YSTV/main/DB-a2.json     单源
 
 {
-	"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C",
-	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C"，
+	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302"，
 
 	"sites":[
-//{"key":"ALBB影视-小苹果"，"name":"🔥ALBB影视                    🔥请勿相信视频中任何广告🔥"，"type":3，"api":"csp_LiteApple"，"playerType":1，"searchable":1，"quickSearch":1，"filterable":1}，
-{"key":"csp_AppMr-明明"，"name":"🔥ALBB影视                    🔥请勿相信视频中任何广告🔥"，"type":3，"api":"csp_AppMr"，"searchable":1，"quickSearch":1，"filterable":1}，
+//{"key":"ALBB影视-小苹果"，"name":"🔥ALBB影视                    🔥请勿相信视频中任何广告🔥"，"type":3，"api":"csp_LiteApple"，"playerType":1，"searchable":1，"quickSearch":1，"filterable":1},
+{"key":"csp_AppMr-明明"，"name":"🔥ALBB影视                    🔥请勿相信视频中任何广告🔥"，"type":3，"api":"csp_AppMr"，"searchable":1，"quickSearch":1，"filterable":1},
 //搜索类:影视榜
 {"key":"js豆瓣1"，"name":"🔥ALBB影视┃榜单"，"type":3，"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js"，"ext":"http://alist.xn--z7x900a.love:63/豆瓣.js"，"searchable":0，"quickSearch":0，"filterable":0}，
 {"key":"Czsapp"，"name":"🏭厂长┃影视榜"，"type":"3"，"api":"csp_Czsapp"，"searchable":"1"，"quickSearch":"1"，"filterable":"1"}，
