@@ -2,8 +2,8 @@
 //https://raw.githubusercontent.com/liangziq007/ALBB-YSTV/main/DB-a2.json     单源
 
 {
-	"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C",
-	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302"，
+	"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C"，
+	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
 //{"key":"ALBB影视-小苹果"，"name":"🔥ALBB影视                    🔥请勿相信视频中任何广告🔥"，"type":3，"api":"csp_LiteApple"，"playerType":1，"searchable":1，"quickSearch":1，"filterable":1}，
