@@ -1,5 +1,5 @@
 //更新地址源：https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/TV/live.txt
-//http://52bsj.vip:81/api/v3/file/get/161949/live01.txt?sign=Ucm2Pcpx2Ab6HDBXl7ndMFluuzXvSO3kkR_xVvEi53k%3D%3A0
+//https://raw.githubusercontent.com/liangziq007/ALBB-YSTV/main/live01.txt
 
 🇨🇳|电视家源,#genre#
 音乐欣赏,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
