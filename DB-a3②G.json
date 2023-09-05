@@ -9,10 +9,9 @@
 
 "lives":[
 {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://gg.gg/cctvgg"]}]}],
+
 "sites":[
-//{"key":"ALBB影视","name":"🔥ALBB影视                    🔥请勿相信视频中任何广告🔥","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Czsapp_厂长","name":"🔥ALBB影视                    🔥请勿相信视频中任何广告🔥","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
-{"key":"Kuaikan","name":"🔥ALBB┃影视13","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"ALBB影视","name":"🔥ALBB影视                    🔥请勿相信视频中任何广告🔥","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 //搜索类：影视榜
 {"key":"T4a","name":"T4┃影视榜","type":4,"api":"https:t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"t4public","name":"T4公共┃影视榜","type":4,"api":"https:t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
@@ -60,10 +59,7 @@
 {"key":"*戏曲05","name":"🅱️戏曲5","type":0,"api":"http:cjmygzy.com/inc/sapi.php?ac=videolist"},
 {"key":"*戏曲06","name":"🅱️戏曲6","type":0,"api":"http:www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"*戏曲07","name":"🅱️戏曲7","type":1,"api":"http:fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*戏曲09","name":"🅱️戏曲9","type":0,"api":"http:secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"*戏曲10HD","name":"🅱️戏曲10HD","type":1,"api":"https:shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*戏曲11HD","name":"🅱️戏曲11HD","type":1,"api":"https:caiji.huakuiapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"*戏曲13HD2","name":"🅱️戏曲13HD2","type":1,"api":"https:siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"戏曲C","name":"传统戏曲C","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 {"key":"戏曲D","name":"传统戏曲D","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 {"key":"请勿相信任何广告","name":"🔥请勿相信任何广告🔥","type":0,"api":""},
