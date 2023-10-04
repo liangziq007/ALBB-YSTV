@@ -7,7 +7,8 @@
 "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-{"key":"Czsapp_厂长","name":"🔥ALBB影视         🔥请勿相信视频中任何广告🔥","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
+{"key":"Czsapp_厂长","name":"🔥ALBB影视         🔥请勿相信视频中任何广告🔥","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.fun/"},
+{"key":"Czspp","name":"🅱️厂长影视|T追剧","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 //搜索类：影视榜
 //大屏分辨率类：
 {"key":"HD2高清","name":"🔥大屏分辨率：","type":0,"api":""},
