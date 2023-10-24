@@ -61,7 +61,6 @@
 {"key":"csp_xpath_kuqimv","name":"🎵酷奇┃MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 {"key": "MV","name": "🌈音乐┃MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星MTV.json"},
 {"key":"drpy_js_酷狗MV","name":"🎵酷狗┃MV","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/酷狗MV.js"},
-{"key":"drpy_js_爱车MV","name":"🎵爱车┃音乐MV","type":3,"api":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy2.min.js","ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/爱车MV.js"},
 
 {"key":"csp_BBB","name":"🅱站┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/bili.json"},
 {"key": "舞蹈","name": "💃哔哩┃舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/云星舞蹈.json"},
@@ -97,7 +96,6 @@
 //在线(游戏)直播类：
 {"key":"在线(游戏)直播","name":"🔥在线(含游戏)直播类：","type":0,"api":""},
 {"key":" 在线┃直播","name":"📺在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key":" 在线┃直播","name":"📺竞技┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 //电视直播类：
 {"key":"电视直播","name":"🔥电视直播类：","type":0,"api":""},
 {"key":"直播转点播2","name":"💻┃电视直播","type":3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
