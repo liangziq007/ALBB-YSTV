@@ -225,9 +225,7 @@
 //{"key": "csp_Bili_gaozxx","name": "🅱️┃高中┃教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.gitcode.com/yydsys/stream/raw/main/json/gaozhong.json"},
 {"key": "高中","name": "高中📚课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
 
-  
 
-{"key": "應用商店","name": "🛑软件┃下载🛑","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://jihulab.com/e8/4k/-/raw/master/json/market.json","jar": "https://jihulab.com/e8/4k/-/raw/master/jar/fm商店.jar"},
 {"key":"请勿相信任何广告","name":"🔥请勿相信任何广告🔥","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"视听品质","name":"🎬BB影视TV🎬视听品质","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0}
 
